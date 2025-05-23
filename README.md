@@ -4,7 +4,7 @@
 * [Descrição do Projeto](#Descrição)
 * [Status do Projeto](#Status)
 * [Funcionalidades e Demonstração da Aplicação](#Funcionalidades)
-* [Cadastrando seus Amigos](#Valor)
+* [Cadastrando seus Amigos](#Cadastrando)
 * [Desenvolvimento](#Desenvolvimento)
 * [Tecnologias utilizadas](#Tecnologias)
 * [Licença](#Licença)
@@ -202,7 +202,7 @@ Zimbabwean Dollar (ZWL)
 # Valor
 ![Informando_o_valor](assets/MenuPrincipal_Valor.jpg)
 <p></p>
-<p>Após a escolha das moedas para conversão, será apresentada uma nova mensagem, solicitado a digitação do valor a ser convertido.</p>
+<p>Após a escolha das moedas para conversão, será apresentada uma nova mensagem, solicitando a digitação do valor a ser convertido.</p>
 <p>i) observar que o valor deverá ser digitado com a vírgula ( , ) como separador decimal, mesmo que o valor não possua centavos;</p>
 <p>ii) após informar o valor, basta teclar [ENTER] para iniciar o processo.</p>
 
@@ -211,7 +211,7 @@ Zimbabwean Dollar (ZWL)
 <p>Ao final do processamento, será apresentado:</p>
 <p>a) valor das cotações de ambas as moedas envolvidas, na data da consulta;</p>
 <p>b) valor já convertido, considerando as moedas escolhidas;</p>
-<p>c) o moenu para que seja escolhida uma nova conversão (ou digitado 7 para sair).</p>
+<p>c) os dados do menu para que seja escolhida uma nova conversão (ou digitado 7 para sair).</p>
 
 # Desenvolvimento
 <p>Ferramenta desenvolvida por Reinaldo Rodrigues (https://github.com/rrodrigues-ftc).</p>
